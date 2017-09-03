@@ -69,6 +69,7 @@
     "react-currency-input": "^1.2.6",
     "react-dom": "^15.4.2",
     "react-dropzone": "^3.12.2",
+    "react-google-charts": "^1.5.5",
     "react-grid-system": "^2.3.0",
     "react-injector": "^0.2.1",
     "react-paginate": "^4.3.1",
