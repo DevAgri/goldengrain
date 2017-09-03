@@ -1,3 +1,4 @@
+```
 ├─ abab@1.0.3
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/jsdom/abab
@@ -4184,3 +4185,5 @@
    ├─ publisher: Ben Coe
    ├─ email: ben@npmjs.com
    └─ licenseFile: /Users/gpedro/Development/goldengrain/app/node_modules/react-native-vector-icons/node_modules/yargs-parser/LICENSE.txt
+
+```

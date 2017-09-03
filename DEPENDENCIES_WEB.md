@@ -1,3 +1,4 @@
+```
 ├─ @blueprintjs/core@1.6.0
 │  ├─ licenses: BSD-3-Clause
 │  ├─ repository: https://github.com/palantir/blueprint
@@ -5635,3 +5636,4 @@
    ├─ publisher: Ben Coe
    ├─ email: ben@npmjs.com
    └─ licenseFile: jest-runtime/node_modules/yargs-parser/LICENSE.txt
+```
