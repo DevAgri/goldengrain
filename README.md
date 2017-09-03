@@ -5,9 +5,8 @@
 #### Resumo
     O Sistema consiste em uma plataforma online de classificação onde os classificadores avaliam o grão de maneira remota
 
-#### Tecnologias:
-    * Web: ReactJS
-    * Mobile: React Native
+#### Tecnologias
+    - [Web](DEPENDENCIES_WEB.md)
+    - [Aplicativo](DEPENDENCIES_APP.md)
 
-## Licença
-- Licença de código aberto e disponível ao usuário.
+#### [Licença](LICENSE.md)
